@@ -28,3 +28,4 @@ Systems Programming
 Programming Language Concepts
 Can be extended to build a mini compiler.
 OUTPUT
+![Image](https://github.com/user-attachments/assets/d9c33b66-c437-4eb9-866e-5181e5a791b4)
