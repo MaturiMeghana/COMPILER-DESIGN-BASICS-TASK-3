@@ -12,13 +12,17 @@ The goal of this project is to build a simple lexical analyzer in C that reads a
    3.Identifiers (e.g., variable/function names)
 This lexical analyzer mimics the first phase of a compiler, providing foundational understanding of how source code is tokenized.
 *TOOLS AND TECHNOLOGIES*
-Tool/Technology	                      Purpose
-C Programming	           -           Core language for implementation
-GCC/Clang                -          	Compiler
-Text Editor              -         	VS Code, Notepad++, Code::Blocks
-stdio.h, string.h, ctype.h	-        Standard C libraries use
+Tool/Technology	-Purpose
+C Language        -	Core programming for implementing RLE logic
+Turbo C++ / GCC	- IDE/compiler to run and build the program
+Standard C Libraries -(stdio.h, conio.h)	File handling, input/output
+Git & GitHub	- Version control and code hosting
+ChatGPT, YouTube, Google- 	Reference and support resources
 *PLATFORM*
-Turbo C++ (for educational DOS-based setups)
+Development Environment: Turbo C++ (DOS-based) and/or any modern C compiler like GCC (Code::Blocks / VS Code)
+Operating System: Windows (Preferred for Turbo C++)
+File Type Support: Plain text files (.txt)
+Input & Output Method: Command-line interface
 *APPLICATIONS*
 Educational Use:
 Teaches lexical analysis, a key compiler design concept.
